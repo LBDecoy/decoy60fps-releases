@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "url": "https://github.com/LBDecoy/decoy60fps-releases/releases/download/v2.0.0/Decoy60FPS-Setup.exe",
+  "sha256": "35505f40638245924374f78c675182a5d9c8f9c66fecb1c7f7849e1adffad5a5",
+  "notes": "Initial public release.",
+  "min_supported": "2.0.0"
+}
