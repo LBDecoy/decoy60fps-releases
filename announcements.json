@@ -1,0 +1,17 @@
+{
+  "announcements": [
+    {
+      "id": "2026-08-18-what-s-new-in-v2-3-2",
+      "date": "2026-08-18",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.3.2",
+        "ar": "شو الجديد في v2.3.2"
+      },
+      "body": {
+        "en": "The app is now digitally signed, Windows shows the publisher name instead of \"Unknown publisher\", and antivirus false alarms dropped sharply.\n\nThe New Method now works for Stories. Posting your video as a Story didn't work before because the sound was broken, that's fixed.\n\nNew Balanced quality card at 10 Mb/s, sitting between Short and 1080p — for when Short looks soft but you still want a smaller file.\n\n.MOV files now upload properly.",
+        "ar": "رسمياً صار التطبيق موقّع رقمياً\nيعني ويندوز بيعرض اسم الناشر بدل ما يقول Unknown publisher، وقلّت كثير إنذارات الانتي فايروس الغلط\n\nالطريقة الجديدة صار بتقدر تنشر فيها الفيديو كـ Story\nقبل ما كانت تشتغل لأن الصوت كان خربان، والآن انحلّت\n\nضفنا كرت جودة جديد اسمه Balanced بـ 10 ميجابت\nبين Short و 1080p، للي بده حجم أصغر بدون ما تنزل الجودة\n\nوملفات MOV صارت ترفع بشكل صحيح"
+      }
+    }
+  ]
+}
