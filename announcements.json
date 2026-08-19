@@ -1,18 +1,31 @@
 {
   "announcements": [
     {
-      "id": "2026-08-19-new-method-is-temporarily-down-use-turbo-instead",
+      "id": "2026-08-19-new-method-works-again-no-vpn-needed",
       "date": "2026-08-19",
       "tier": "urgent",
       "title": {
-        "en": "New Method is temporarily down — use Turbo instead",
-        "ar": "الطريقة الجديدة متوقفة مؤقتاً، استعمل Turbo بدالها"
+        "en": "New Method works again — no VPN needed",
+        "ar": "الطريقة الجديدة رجعت تشتغل — بدون VPN"
       },
       "body": {
-        "en": "TikTok has patched the New Method.\n\nUntil we release a fix, use the Turbo method from the Dashboard instead:\n\nTurn on a Japan VPN.\nOpen the Dashboard tab and choose Turbo.\nAnd in the Tutorials section you'll find a video guide.\n\nWe're working on a fix and will post here the moment it's ready. Thanks for your patience.",
-        "ar": "رسمياً تيك توك سكّر الطريقة الجديدة\n\nللحين ما ننزّل الحل، استعمل طريقة تيربو من لوحة التحكم بدالها:\n\nشغّل VPN ياباني.\nافتح تبويب Dashboard واختار Turbo.\nواذا تروح على قسم الشروحات راح تلاقي شرح فيديو\n\nقاعدين نشتغل على الحل ورح نكتبلكم هون أول ما يجهز. شكراً لصبركم."
+        "en": "Update the app to v2.3.3.\n\nThis is not the old method coming back. TikTok's patch still stands and we are still hunting for a replacement. What you get today is an alternative that needs NO VPN.\n\nThe New Method tab now has two methods:\n\nStudio 60 — re-encodes your clip to a clean 60fps file. Start here.\nTurbo 60 — uploads your own file as-is, so your 60fps always survives.\n\nTry both. Results differ from account to account, so use whichever looks better on yours — and give a clip an hour or two before you judge it.\n\nIMPORTANT: post the video as Private first, then open it and switch it to Everyone. Posting straight to public does not work.\n\nQuality starts at 720p and climbs as the video picks up views. Give it time — deleting and re-posting starts it over.\n\nIf you want better quality, run the same two methods with a Japan VPN. Free options are listed under Downloads.",
+        "ar": "حدّث التطبيق لنسخة v2.3.3.\n\nهذي مش الطريقة القديمة رجعت. باتش تيك توك لسا موجود وإحنا لسا بندوّر على بديل. اللي عندك اليوم هو خيار ثاني بدون VPN.\n\nتبويب الطريقة الجديدة صار فيه طريقتين:\n\nStudio 60 — بيعيد ترميز مقطعك لملف 60 إطار نظيف. ابدأ من هون.\nTurbo 60 — بيرفع ملفك مثل ما هو وال60 فريم دائماً مضمون\n\nجرّب الطريقتين. النتيجة بتختلف من حساب لحساب، فاستعمل اللي تطلع أحسن عندك ولازم تصبر على المقطع ساعة او ساعتين.\n\nمهم: انشر الفيديو Private أول، وبعدين افتحه وحوّله للجميع. النشر عام مباشرة ما بيشتغل.\n\nالجودة بتبدأ 720p وبترتفع لما الفيديو يجمع مشاهدات. أعطيه وقت — الحذف وإعادة النشر بترجّعك من الصفر.\n\nإذا بدك جودة أحسن، شغّل نفس الطريقتين مع VPN ياباني. في خيارات مجانية تحت قسم التحميلات."
       },
       "expires": "2026-09-01"
+    },
+    {
+      "id": "2026-08-19-what-s-new-in-v2-3-3",
+      "date": "2026-08-19",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.3.3",
+        "ar": "شو الجديد في v2.3.3"
+      },
+      "body": {
+        "en": "The New Method tab has been rebuilt around two methods that need no VPN.\n\nStudio 60 re-encodes your clip to a clean 60fps file — the more consistent of the two, and where to start. Turbo 60 uploads your own file untouched, so nothing is re-encoded and nothing is lost; it needs a 60fps export to be worth using.\n\nThe quality cards are gone. They set the bitrate for the old method, and TikTok decides the delivered quality on these two — it starts at 720p and climbs with views.\n\nThe 3 minute limit is gone too. Neither method has any length limit.\n\nThe VPN list under Downloads has been audited. Two entries were removed for safety and the rest now say plainly which ones actually give you a Japan server on their free plan — most do not.\n\nBoth methods work with no VPN. A Japan VPN is only worth trying if you are not happy with the quality.",
+        "ar": "تبويب الطريقة الجديدة انعمل من جديد حوالين طريقتين ما بدّهم VPN.\n\nStudio 60 بيعيد ترميز مقطعك لملف 60 إطار نظيف — وهي الأثبت بين الثنتين ومنها تبدأ. Turbo 60 بيرفع ملفك زي ما هو بدون إعادة ترميز، يعني ما في جودة بتضيع؛ بس بدّه تصدير بـ 60 إطار عشان يستاهل.\n\nكروت الجودة انشالت. كانت بتحدد البِت ريت للطريقة القديمة، وبهالطريقتين تيك توك هو اللي بيقرر الجودة — بتبدأ 720p وبترتفع مع المشاهدات.\n\nوحد الـ ٣ دقائق كمان انشال. ما في حد لطول المقطع بأي وحدة من الطريقتين.\n\nقائمة الـ VPN تحت قسم التحميلات انراجعت. انشال منها خيارين لأسباب أمان، والباقي صار يقول بوضوح مين فيهم بيعطيك سيرفر ياباني على الخطة المجانية — وأغلبهم لأ.\n\nالطريقتين بيشتغلوا بدون VPN. الـ VPN الياباني بس إذا الجودة مش عاجبتك."
+      }
     },
     {
       "id": "2026-08-18-what-s-new-in-v2-3-2",
