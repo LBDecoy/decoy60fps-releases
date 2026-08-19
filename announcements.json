@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "2026-08-19-new-method-is-temporarily-down-use-turbo-instead",
+      "date": "2026-08-19",
+      "tier": "urgent",
+      "title": {
+        "en": "New Method is temporarily down — use Turbo instead",
+        "ar": "الطريقة الجديدة متوقفة مؤقتاً، استعمل Turbo بدالها"
+      },
+      "body": {
+        "en": "TikTok has patched the New Method.\n\nUntil we release a fix, use the Turbo method from the Dashboard instead:\n\nTurn on a Japan VPN.\nOpen the Dashboard tab and choose Turbo.\nAnd in the Tutorials section you'll find a video guide.\n\nWe're working on a fix and will post here the moment it's ready. Thanks for your patience.",
+        "ar": "رسمياً تيك توك سكّر الطريقة الجديدة\n\nللحين ما ننزّل الحل، استعمل طريقة تيربو من لوحة التحكم بدالها:\n\nشغّل VPN ياباني.\nافتح تبويب Dashboard واختار Turbo.\nواذا تروح على قسم الشروحات راح تلاقي شرح فيديو\n\nقاعدين نشتغل على الحل ورح نكتبلكم هون أول ما يجهز. شكراً لصبركم."
+      },
+      "expires": "2026-09-01"
+    },
+    {
       "id": "2026-08-18-what-s-new-in-v2-3-2",
       "date": "2026-08-18",
       "tier": "normal",
