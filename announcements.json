@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "2026-08-22-what-s-new-in-v2-4-0",
+      "date": "2026-08-22",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.4.0",
+        "ar": "شو الجديد في v2.4.0"
+      },
+      "body": {
+        "en": "• The New Method is back — you can now upload in up to 4K60.\n\n• The tab is now two lanes: Safe and Max Quality. You pick one the first time you open it, and can switch anytime.\n\n• Max Quality — up to 4K60.\n\n• Safe — TikTok serves these at 720p60.\n\n• New card: Turbo Safe 60 — a fallback for when a Turbo clip comes out glitched. Needs a 60fps source.\n\n• Fixed: a rare Turbo bug that could corrupt a frame, worse on big 4K files.\n\n• Fixed: error messages now show in your own language instead of raw English.",
+        "ar": "• تم ارجاع الطريقة الجديدة وتقدر ترفع الحين بجودة 4K\n\n• التبويب صار فيه مسارين: الآمنة وأعلى جودة. بتختار واحد أول مرة تفتحه، وبتقدر تبدّل أي وقت.\n\n• أعلى جودة — لغاية 4K60،\n\n• الآمنة — تيك توك بتعرضها 720p60\n\n• كرت جديد: Turbo Safe 60 — بديل للحالات اللي بتطلع فيها Turbo مشوّشة. بدها مصدر 60 إطار.\n\n• تصليح: خلل نادر في Turbo كان ممكن يخرّب فريم، وأكتر بملفات 4K الكبيرة.\n\n• تصليح: رسائل الأخطاء صارت تطلع بلغتك بدل الإنجليزي الخام."
+      }
+    },
+    {
       "id": "2026-08-19-new-method-works-again-no-vpn-needed",
       "date": "2026-08-19",
       "tier": "urgent",
