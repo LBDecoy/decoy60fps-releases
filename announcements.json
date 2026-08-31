@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "2026-08-31-what-s-new-in-v2-4-1",
+      "date": "2026-08-31",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.4.1",
+        "ar": "شو الجديد في v2.4.1"
+      },
+      "body": {
+        "en": "• The 120 FPS option is live — you can now upload 120 fps clips to TikTok.\n\n• Many fixes and improvements for problems users were running into.\n\n• A clear message in Chrome while the tool is boosting quality, so uploads no longer go wrong midway.\n\n• The 2K and 4K cards no longer upscale past your source — smaller file, faster processing, same quality.\n\n• The New Method tab has moved to the very top.",
+        "ar": "• تم تفعيل خيار ال120 فريم وصار بإمكانك ترفع مقاطع 120 فريم على تيك توك\n\n• تحسينات وحل مشاكل كثيرة كانت تواجه المستخدمين.\n\n• رسالة واضحة بمتصفح كروم وقت رفع الجودة من خلال الاداة لتجنب حدوث اخطاء خلال الرفغ\n\n• كروت 2K و4K ما عادت تكبّر الفيديو أكبر من أصله — ملف أصغر، معالجة أسرع، نفس الجودة\n\n• تغيير مكان قائمة الطريقة الجديدة وتم وضعها اعلى شيء"
+      }
+    },
+    {
       "id": "2026-08-22-what-s-new-in-v2-4-0",
       "date": "2026-08-22",
       "tier": "normal",
