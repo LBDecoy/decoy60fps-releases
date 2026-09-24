@@ -1,6 +1,33 @@
 {
   "announcements": [
     {
+      "id": "2026-09-24-what-s-new-in-v2-4-2",
+      "date": "2026-09-24",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.4.2",
+        "ar": "شو الجديد في v2.4.2"
+      },
+      "body": {
+        "en": "• The older Max Quality methods are paused for now, until we fix them\n\n• A new, safe quality method is officially live\n\n• And you have to post the video to “Everyone” directly — no need for it to be Private",
+        "ar": "• طرق أعلى جودة القديمة متوقفة مؤقتاً لحد ما نظبطها\n\n• رسمياً تم تفعيل طريقة جودة جديدة وآمنة\n\n• ولازم تنشر الفيديو على «الجميع» مباشرة ما في داعي يكون Private"
+      }
+    },
+    {
+      "id": "2026-09-24-max-quality-is-paused",
+      "date": "2026-09-24",
+      "tier": "urgent",
+      "title": {
+        "en": "Max Quality is paused",
+        "ar": "أعلى جودة متوقفة مؤقتاً"
+      },
+      "body": {
+        "en": "TikTok patched the Max Quality method, so we paused it until we fix it.\n\nWe have a new, safe method ready, and it lands in an update soon.\n\nAll you have to do: update the tool when it prompts you.",
+        "ar": "تيك توك عدّل على طريقة أعلى جودة، فوقّفناها مؤقتاً لحد ما نظبطها.\n\nفي طريقة جديدة وآمنة جاهزة عنا، وراح تنزل بتحديث قريب.\n\nكل اللي عليك: حدّث الأداة لما يطلعلك إشعار التحديث."
+      },
+      "expires": "2026-10-08"
+    },
+    {
       "id": "2026-08-31-what-s-new-in-v2-4-1",
       "date": "2026-08-31",
       "tier": "normal",
