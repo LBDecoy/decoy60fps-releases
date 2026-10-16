@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "2026-10-16-the-views-issue-is-fixed",
+      "date": "2026-10-16",
+      "tier": "urgent",
+      "title": {
+        "en": "The views issue is fixed",
+        "ar": "تم حل مشكلة عدم وصول المشاهدات"
+      },
+      "body": {
+        "en": "TikTok has fixed the issue where views were not coming through on some accounts. Please try uploading again.",
+        "ar": "مشكلة عدم وصول المشاهدات عند بعض الحسابات تم حلها من قبل تيك توك الرجاء تجربة الرفع مرة ثانية"
+      },
+      "expires": "2026-10-23"
+    },
+    {
       "id": "2026-09-28-what-s-new-in-v2-5-0",
       "date": "2026-09-28",
       "tier": "normal",
