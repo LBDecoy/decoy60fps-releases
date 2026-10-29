@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "2026-10-29-important-use-the-safe-lane-for-now",
+      "date": "2026-10-29",
+      "tier": "urgent",
+      "title": {
+        "en": "Important: use the Safe lane for now",
+        "ar": "تنبيه مهم: يرجى استخدام الطرق الآمنة مؤقتاً"
+      },
+      "body": {
+        "en": "On some accounts, video quality drops after uploading with the Max Quality lane.\nSo use the Safe lane methods until we find a fix.\nWe will let you know here as soon as Max Quality is working properly again.",
+        "ar": "تنخفض جودة الفيديو لدى بعض الحسابات بعد الرفع عبر مسار «أعلى جودة»\nلذلك يرجى استخدام الطرق الآمنة إلى أن نجد حلاً\nوسنبلغكم هنا فور عودة «أعلى جودة» إلى العمل بشكل سليم"
+      },
+      "expires": "2026-11-12"
+    },
+    {
       "id": "2026-10-16-the-views-issue-is-fixed",
       "date": "2026-10-16",
       "tier": "urgent",
