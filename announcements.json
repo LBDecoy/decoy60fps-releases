@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "2026-10-31-what-s-new-in-v2-5-1",
+      "date": "2026-10-31",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.5.1",
+        "ar": "شو الجديد في v2.5.1"
+      },
+      "body": {
+        "en": "• A new method in the Safe lane called \"Lite 60\" 🔥 It works on most accounts, big ones too, at 60 fps, with 3 qualities to choose from so the video plays smoothly for your followers\n\n• The \"Max Quality\" lane is paused until we find a fix, use the Safe lane for now\n\n• \"Keep Original\" is still there for the highest quality, up to 4K and 120 fps, but it might not work for everyone and might stutter for some followers\n\n• \"Smooth 60\" doubles the clip's duration, and the card now says so",
+        "ar": "• طريقة جديدة بالمسار الآمن اسمها «خفيف 60» 🔥 بتشتغل على أغلب الحسابات حتى الكبيرة وبـ 60 فريم، وفيها 3 جودات تختار منها عشان الفيديو يشتغل سلس عند المتابعين\n\n• مسار «أعلى جودة» متوقف مؤقتًا لحين ما نلاقي حل، استعملوا المسار الآمن حالياً\n\n• «الجودة الأصلية» لسا موجودة لأعلى جودة لغاية 4K و120 فريم، بس ممكن ما تشتغل عند الكل وممكن يقطّع عند بعض المتابعين\n\n• «سلاسة 60» بتضاعف مدة المقطع، وصار هالشي مكتوب على البطاقة"
+      }
+    },
+    {
       "id": "2026-10-29-important-use-the-safe-lane-for-now",
       "date": "2026-10-29",
       "tier": "urgent",
