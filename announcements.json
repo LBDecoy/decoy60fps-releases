@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "2026-11-05-important-use-turbo",
+      "date": "2026-11-05",
+      "tier": "urgent",
+      "title": {
+        "en": "Important: use Turbo",
+        "ar": "تنبيه مهم: استخدموا Turbo"
+      },
+      "body": {
+        "en": "TikTok changed its processing, so the New Method tab no longer works.\nWe're working on a fix. No date yet, but an update will come once it's ready.\nTurbo and Turbo Safe Mode on the Dashboard work fine with a Japan VPN.\nTo see how, watch the Dashboard video in the Tutorials tab.",
+        "ar": "غيّر تيك توك طريقة المعالجة، فتوقف تبويب «الطريقة الجديدة» عن العمل\nنعمل على إيجاد حل ولا يوجد موعد محدد بعد، وسيصلكم تحديث فور جاهزيته\nيعمل Turbo و Turbo · الوضع الآمن من «لوحة التحكم» بشكل جيد مع VPN ياباني\nلمعرفة الطريقة، شاهدوا فيديو «لوحة التحكم» في تبويب «الشروحات»"
+      },
+      "expires": "2026-11-19"
+    },
+    {
       "id": "2026-10-31-what-s-new-in-v2-5-1",
       "date": "2026-10-31",
       "tier": "normal",
@@ -25,7 +39,7 @@
         "en": "On some accounts, video quality drops after uploading with the Max Quality lane.\nSo use the Safe lane methods until we find a fix.\nWe will let you know here as soon as Max Quality is working properly again.",
         "ar": "تنخفض جودة الفيديو لدى بعض الحسابات بعد الرفع عبر مسار «أعلى جودة»\nلذلك يرجى استخدام الطرق الآمنة إلى أن نجد حلاً\nوسنبلغكم هنا فور عودة «أعلى جودة» إلى العمل بشكل سليم"
       },
-      "expires": "2026-11-12"
+      "expires": "2026-11-05"
     },
     {
       "id": "2026-10-16-the-views-issue-is-fixed",
