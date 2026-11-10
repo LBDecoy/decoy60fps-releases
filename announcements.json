@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "2026-11-10-what-s-new-in-v2-5-2",
+      "date": "2026-11-10",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.5.2",
+        "ar": "شو الجديد في v2.5.2"
+      },
+      "body": {
+        "en": "🎉 The method works again\n\n• The Max Quality lane is back with its five cards, and the Safe lane is now one button, both on the new method\n\n• The Safe lane posts as \"Only me\" by itself, and you switch it to \"Everyone\" afterwards. The Max Quality lane posts to \"Everyone\" directly\n\n• The app now updates itself when you open it, with nothing to click\n\n• A new Support tab: open a ticket on Discord, or send us a ready-made email with all the details\n\n• The key window now tells you why it appeared (internet, VPN, antivirus, your PC's clock), with a \"Retry\" button so you do not have to type your key again\n\n• The Checker: improved, and its problems fixed\n\n• The Dashboard now shows which country your connection is in before you upload, and warns you if the video is not a steady 60 fps or is HDR\n\n• Error messages now tell you the real reason instead of \"something went wrong\"",
+        "ar": "🎉 الطريقة رجعت تشتغل\n\n• مسار \"أعلى جودة\" رجع بالبطاقات الخمسة، ومسار \"الآمن\" صار زر واحد، والاثنين على الطريقة الجديدة\n\n• مسار \"الآمن\" بينشر على \"أنا فقط\" لحاله، وانت بتحوّله على \"الجميع\" بعدها. مسار \"أعلى جودة\" بينشر على \"الجميع\" مباشرة\n\n• البرنامج صار يحدّث حاله لحاله أول ما تفتحه، بدون ما تضغط إشي\n\n• تبويب \"الدعم الفني\" جديد: تفتح تذكرة على ديسكورد أو تبعثلنا إيميل جاهز بكل التفاصيل\n\n• نافذة المفتاح صارت تخبرك ليش ظهرت (النت، الـVPN، برنامج الحماية، ساعة الجهاز)، وفيها زر \"أعد المحاولة\" بدون ما تكتب مفتاحك من جديد\n\n• الفاحص: تم تحسينه واصلاح مشاكله\n\n• لوحة التحكم: صارت تبيّن من وين اتصالك قبل الرفع، وبتنبّهك إذا الفيديو مش 60 فريم ثابتة أو إذا كان HDR\n\n• رسائل الأخطاء صارت تقول لك السبب الحقيقي بدل \"حدث خطأ ما\""
+      }
+    },
+    {
       "id": "2026-11-05-important-use-turbo",
       "date": "2026-11-05",
       "tier": "urgent",
@@ -12,7 +25,7 @@
         "en": "TikTok changed its processing, so the New Method tab no longer works.\nWe're working on a fix. No date yet, but an update will come once it's ready.\nTurbo and Turbo Safe Mode on the Dashboard work fine with a Japan VPN.\nTo see how, watch the Dashboard video in the Tutorials tab.",
         "ar": "غيّر تيك توك طريقة المعالجة، فتوقف تبويب «الطريقة الجديدة» عن العمل\nنعمل على إيجاد حل ولا يوجد موعد محدد بعد، وسيصلكم تحديث فور جاهزيته\nيعمل Turbo و Turbo · الوضع الآمن من «لوحة التحكم» بشكل جيد مع VPN ياباني\nلمعرفة الطريقة، شاهدوا فيديو «لوحة التحكم» في تبويب «الشروحات»"
       },
-      "expires": "2026-11-19"
+      "expires": "2026-11-10"
     },
     {
       "id": "2026-10-31-what-s-new-in-v2-5-1",
