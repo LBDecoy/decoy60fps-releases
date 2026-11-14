@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "2026-11-14-what-s-new-in-v2-5-3",
+      "date": "2026-11-14",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.5.3",
+        "ar": "شو الجديد في v2.5.3"
+      },
+      "body": {
+        "en": "• \"Max Quality\" lane posts now have a sound on TikTok, and you can now share them to your story 🎵\n\n• The sound is your clip's own audio, and it shows on TikTok as an original sound under your account's name\n\n• The \"Safe\" lane now has two buttons, \"Safe 60\" and \"Safe 60 Backup\", on a different method from \"Max Quality\", so if one stops you still have the other\n\n• \"Safe\" is the backup for when \"Max Quality\" stops, because the TikTok app may play its posts at 30 fps\n\n• Big clips no longer freeze the TikTok page while uploading\n\n• The Checker: it now shows the post's picture, the colours now follow the resolution, and it warns you if TikTok also made a 30 fps copy\n\n• The VPN list in \"Help & FAQ\" has been updated, with two recommended options at the top\n\n• A clip that does not reach the app in full is now refused instead of going up incomplete",
+        "ar": "• منشورات مسار \"أعلى جودة\" صار إلها صوت على تيك توك، وصار بإمكانك تشاركها على الستوري 🎵\n\n• الصوت بيكون صوت مقطعك نفسه، وبيظهر على تيك توك كصوت أصلي باسم حسابك\n\n• مسار \"الآمن\" صار فيه زرين، \"آمن 60\" و\"آمن 60 احتياطي\"، على طريقة غير \"أعلى جودة\"، عشان لو توقفت وحدة يضل عندك الثانية\n\n• \"الآمن\" احتياطي لما يتوقف \"أعلى جودة\"، لأن تطبيق تيك توك ممكن يشغّل منشوراته 30 فريم\n\n• المقاطع الكبيرة ما عادت تعلّق صفحة تيك توك وقت الرفع\n\n• الفاحص: صار يبيّن صورة المنشور، والألوان صارت حسب الدقة، وبينبّهك إذا تيك توك عمل كمان نسخة 30 فريم\n\n• قائمة الـVPN في \"المساعدة\" تحدّثت، وصار في خيارين مقترحين بأولها\n\n• المقطع اللي ما بيوصل كامل للبرنامج صار ينرفض بدل ما ينرفع ناقص"
+      }
+    },
+    {
       "id": "2026-11-10-what-s-new-in-v2-5-2",
       "date": "2026-11-10",
       "tier": "normal",
