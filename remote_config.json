@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "promo_badge": {
+    "active": false,
+    "text": {
+      "en": "New: Decoy Reels",
+      "ar": "جديد: Decoy Reels"
+    },
+    "url": "https://decoy60fps.com/decoy-reels"
+  }
+}
