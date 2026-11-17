@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "2026-11-17-what-s-new-in-v2-5-4",
+      "date": "2026-11-17",
+      "tier": "normal",
+      "title": {
+        "en": "What's new in v2.5.4",
+        "ar": "شو الجديد في v2.5.4"
+      },
+      "body": {
+        "en": "• The \"120 FPS\" switch is back on the \"Max Quality\" lane: turn it on if your clip is exported at 120 fps 🎞️\n\n• The way the clip reaches the app has been changed, because of the \"TikTok page stopped waiting\" message some users saw\n\n• If you drop more than one clip at once, the app now prepares only the first and holds the rest back, instead of them going up unprepared\n\n• Fixed the app asking for the key every time you open it on some PCs\n\n• \"Motion Blur\": if it crashes on your PC it now tries again without the graphics card, and the picture now stays in sync with the sound on phone clips\n\n• \"Safe 60\": fixed the \"Verification failed\" error on some clips\n\n• Other improvements and fixes",
+        "ar": "• رجع زر \"120 فريم\" لمسار \"أعلى جودة\"، فعّله إذا مقطعك متصدّر 120 فريم 🎞️\n\n• تم تعديل طريقة وصول المقطع للبرنامج، بسبب رسالة \"توقفت صفحة تيك توك عن الانتظار\" اللي ظهرت عند بعض المستخدمين\n\n• لو حطيت أكثر من مقطع مع بعض، صار البرنامج يجهّز الأول بس ويوقف الباقي، بدل ما ينرفعوا بدون تجهيز\n\n• تم إصلاح مشكلة طلب المفتاح كل ما تفتح البرنامج عند بعض الأجهزة\n\n• \"تمويه الحركة\": إذا تعطّل على جهازك صار يعيد المحاولة بدون كرت الشاشة، والصورة صارت ماشية مع الصوت بمقاطع الجوال\n\n• \"آمن 60\": تم إصلاح خطأ \"فشل التحقق\" عند بعض المقاطع\n\n• تحسينات وإصلاحات ثانية"
+      }
+    },
+    {
       "id": "2026-11-14-what-s-new-in-v2-5-3",
       "date": "2026-11-14",
       "tier": "normal",
